@@ -18,8 +18,8 @@ available arguments:
 
 # OUTPUT
 
-	- Circularized fasta file
-  - 6 columns log file: Contig_name Circularized(yes/no) Old_length New_length Circularized_from Circularized_to
+- Circularized fasta file
+- 6 columns log file: Contig_name Circularized(yes/no) Old_length New_length Circularized_from Circularized_to
 
 # AUTHOR
 
