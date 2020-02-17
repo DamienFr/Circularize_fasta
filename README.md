@@ -23,4 +23,4 @@ available arguments:
 
 # AUTHOR
 
-	Damien Richard, 2019
+Damien Richard, 2019
