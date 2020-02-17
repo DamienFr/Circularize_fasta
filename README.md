@@ -1,10 +1,10 @@
 # DESCRIPTION
 Produces circular sequence from linear nucleotide sequence with repeated ends.
-	Compare the beginning and the end of a nucleotide sequence from a fasta file in order to circularize it by cutting out the repeated segment. Comparison made by blastn. In case of multiple matches, sequence is not modified. Check log file. Multifasta files are accepted.
+Compare the beginning and the end of a nucleotide sequence from a fasta file in order to circularize it by cutting out the repeated segment. Comparison made by blastn. In case of multiple matches, sequence is not modified. Check log file. Multifasta files are accepted.
 
 # USAGE
 
-	Usage: /home/bacterio/Copy/Dropbox/xx.scripts/circularize_fasta/circularize_fasta.sh -f fasta_file [-m 0] [-l 25] [-d 2] [-k] [-h]
+Usage: /home/bacterio/Copy/Dropbox/xx.scripts/circularize_fasta/circularize_fasta.sh -f fasta_file [-m 0] [-l 25] [-d 2] [-k] [-h]
 [] means argument is optional
 
 available arguments:
